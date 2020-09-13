@@ -18,6 +18,7 @@ button {
   border-radius: 4px;
   border: none;
   font-family: inherit;
+  margin-right: 1%;
 }
 
 .heart {
